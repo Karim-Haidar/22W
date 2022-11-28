@@ -1,6 +1,6 @@
-# 3 Title
+# Title
 
-test Welcome.
+Welcome.
 
 ## Subtitle 1
 
