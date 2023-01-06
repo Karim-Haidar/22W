@@ -1,11 +1,11 @@
 # <font size="0" style="display:none">DigiHealth Blog</font>
 # <font style="color:#1e6bb8"><b>| Empowering the Visually Impaired With AI</b></font>
 <br>
-<center><img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses" width="1000" height="400">
+<center><img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses" width="1000" height="400"></center>
 >
 > Image courtsey of Wired UK
 >
-</center>
+
 <br>
 <font size="5"><b>Visually impaired individuals</b></font><font size="4"> face countless challenges and hurdles everyday as they attempt to navigate our vision-oriented infrastructures. As these individuals today form circa 10% of Germany’s population <a href="https://www.germany.travel/en/accessible-germany/disability-friendly-travel-for/visually-impaired.html#:~:text=This%20equates%20to%20around%2010%20%25%20of%20the%20German%20population.">(1)</a>, it is crucial that we can accommodate them.</font>
 
@@ -37,11 +37,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since we’ve been using technology to take care of our chores, can it cook? The answer isn’t quite straightforward, while autonomous kitchens have been popping up in limited applications such as restaurants severing noodles in Japan <a href="https://www.aiplusinfo.com/blog/connected-robotics-robotic-kitchen-japan/#:~:text=A%20Japanese%20start%2Dup%20company,delicious%20kakiage%20all%20by%20itself.">(5)</a> and pizza in Los Angeles <a href="https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html">(6)</a>, these robots are specialized. One Application that isn’t specialized is the Moley Kitchen robot <a href="https://www.moley.com/">(7)</a> and makes use of two robotic arms with pressure sensitive fingers, though as impressive as that sounds, the online videos posted by the company more than a year ago show that the robot isn’t <i>“there”</i> yet <a href="https://www.youtube.com/watch?v=i1GVwbYURuQ">(8)</a>.
 <br>
 <br>
-<center><img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" width="750" height="400">
+<center><img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" width="750" height="400"></center>
 >
 > Image courtsey of the BBC
 >
-</center>
+
 ## <font style="color:#1e6bb8"><b>The Catch</b></font>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do these solutions and optimistic prospects for the future come with no disadvantage? Well, as of now the glass appears to be half empty.
