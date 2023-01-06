@@ -6,7 +6,7 @@
 > Fortunately, advancements in artificial intelligence (AI) in healthcare have the potential to provide a much needed boost for the visually impaired.
 >
 
-<a href="/22W#:~:text=Target%20Audience">More about this posts target audience</a>
+<a href="/22W#:~:text=This%20post">More about this posts target audience</a>
 <br>
 <br>
 # New Shades for a New Generation
@@ -29,7 +29,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since we’ve been using technology to take care of our chores, can it cook? The answer isn’t quite straightforward, while autonomous kitchens have been popping up in limited applications such as restaurants severing noodles in Japan <a href="https://www.aiplusinfo.com/blog/connected-robotics-robotic-kitchen-japan/#:~:text=A%20Japanese%20start%2Dup%20company,delicious%20kakiage%20all%20by%20itself.">(5)</a> and pizza in Los Angeles <a href="https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html">(6)</a>, these robots are specialized. One Application that isn’t specialized is the Moley Kitchen robot <a href="https://www.moley.com/">(7)</a> and makes use of two robotic arms with pressure sensitive fingers, though as impressive as that sounds, the online videos posted by the company more than a year ago show that the robot isn’t <i>“there”</i> yet <a href="https://www.youtube.com/watch?v=i1GVwbYURuQ">(8)</a>.
 <br>
-<img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" width="850" height="400">
+<br>
+<img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" width="750" height="400">
 >
 > Image courtsey of the BBC
 >
@@ -54,6 +55,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="4">The solutions discussed above can reinvigorate confidence by giving unsighted individuals back independence bit by bit, and help them experience new activities safely.</font>
 
 <br>
-<br>
-# Target Audience
+### Target Audience
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This post is directed towards Digital health researchers, medical technicians, medical researchers, and visually impaired individuals.
