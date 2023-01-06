@@ -9,7 +9,7 @@
 <a href="/22W#:~:text=This%20post">More about this posts target audience</a>
 <br>
 <br>
-## <font style= "color:#1e6bb8 font-weight: bold"><b>New Shades for a New Generation</b></font>
+## <font style="color:#1e6bb8"><b>New Shades for a New Generation</b></font>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Artificial Intelligence equipped glasses are a new and innovative technology that is helping to improve the lives of the visually impaired. AI glasses are outfitted with a camera and software for image, object and text recognition, allowing people who are legally blind to “see” objects in their environment. The glasses can detect objects and relay information such as distance, size, and shape to the user. This technology is helping to increase the independence and mobility of the visually impaired, allowing them to visualize and navigate their environment with ease.
 
@@ -17,9 +17,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI glasses are not only helpful for the visually impaired, but they are also helping to advance medical research. By providing researchers with data on how the visually impaired interact with their environment, researchers can develop better treatments and therapies to help them. These glasses have a lot of room for improvement but their current capabilities show great promise for the future. This <a href="https://www.youtube.com/watch?v=9ehENnq2EFo">video</a> shows the current problems the glasses tackle.
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ehENnq2EFo" title="YouTube video player showcasing Envsion Glasses"></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9ehENnq2EFo" title="YouTube video player showcasing Envsion Glasses"></iframe></center>
 
-## Shaping the Future with AI
+## <b>Shaping the Future with AI</b>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many sectors realize the potential of AI and seek to incorporate and further the development of AI-based technologies, such as autonomous vehicles, augmented reality and autonomous robots. This technology is helping to make the world a more accessible place for everyone, especially to the disabled.
 
@@ -35,7 +35,7 @@
 > Image courtsey of the BBC
 >
 
-## The Catch
+## <b>The Catch</b>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do these solutions and optimistic prospects for the future come with no disadvantage? Well, as of now the glass appears to be half empty.
 
@@ -47,7 +47,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technologies today, mainly those that incorporate AI have been under the spotlight due to privacy concerns. AI programs perfect themselves by training on data, and what better data than real customer data. All major tech corporations - Microsoft, Apple and Google have all been under scrutiny for mishandling customer data <a href="https://www.security.org/resources/data-tech-companies-have/">(12)</a>. Amazon not long ago has acquired the company behind the Roomba robots sparking great online concern on the real reasons behind the move <a href="https://www.theatlantic.com/ideas/archive/2022/08/amazon-roomba-irobot-acquisition-monopoly/671145/">(13)</a>.With this already well-known information in mind are we sure signing off our private health data with profit-driven companies is a worth gamble? Such problems while difficult are solvable, by integrating governmental supervision and Laws such as the European “GDPR” regulations. However, companies with deep pockets know that money talks.
 
-## Invisible Disabilities: Taking Charge Again
+## <b>Invisible Disabilities: Taking Charge Again</b>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This brings us to the next, broader, issue that these solutions indirectly solve; visually impaired people face a variety of mental challenges in their daily lives. These include feelings of isolation, frustration, depression, anxiety, fear, and low self-esteem. They may feel isolated from society as a whole due to their disability as they may not be able to participate in activities that sighted people take for granted, such as driving, sports, or even navigating a new environment without assistance. The inability to perform “normal” tasks leads to frustration, which can be compounded when they are not given the same access to education, employment, or other opportunities as their sighted peers. Exposure to these feelings daily or rather constantly can drive a person to depression. Visually impaired people especially, younger adults who have not yet developed confidence and self-management skills <a href="https://www.cdc.gov/visionhealth/resources/features/vision-loss-mental-health.html">(14)</a>, may feel depressed due to their disability and they are missing out on life experiences or opportunities.
 
