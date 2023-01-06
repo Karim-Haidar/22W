@@ -6,7 +6,7 @@
 > Fortunately, advancements in artificial intelligence (AI) in healthcare have the potential to provide a much needed boost for the visually impaired.
 >
 
-<a href="/#:~:text=Shaping%20the%20Future%20with%20AI">More about this posts target audience</a>
+<a href="/22W/#:~:text=Shaping%20the%20Future%20with%20AI">More about this posts target audience</a>
 <br>
 <br>
 # New Shades for a New Generation
