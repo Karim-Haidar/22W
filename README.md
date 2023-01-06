@@ -1,7 +1,7 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="3">Visually impaired individuals face countless challenges and hurdles everyday as they attempt to navigate our vision-oriented infrastructures. As these individuals today form circa 10% of Germany’s population [(1)](https://www.germany.travel/en/accessible-germany/disability-friendly-travel-for/visually-impaired.html#:~:text=This%20equates%20to%20around%2010%20%25%20of%20the%20German%20population.), it is crucial that we can accommodate them.</font>
-<font size="3">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="4">Visually impaired individuals face countless challenges and hurdles everyday as they attempt to navigate our vision-oriented infrastructures. As these individuals today form circa 10% of Germany’s population <a href="https://www.germany.travel/en/accessible-germany/disability-friendly-travel-for/visually-impaired.html#:~:text=This%20equates%20to%20around%2010%20%25%20of%20the%20German%20population.">(1)</a>, it is crucial that we can accommodate them.</font>
+>
 > Fortunately, advancements in artificial intelligence (AI) in healthcare have the potential to provide a much needed boost for the visually impaired.
-</font>
+>
 
 # New Shades for a New Generation
 
