@@ -9,7 +9,7 @@
 <a href="/22W#:~:text=This%20post">More about this posts target audience</a>
 <br>
 <br>
-## <font style= "color:#1e6bb8 font-weight: bold">New Shades for a New Generation</font>
+## <font style= "color:#1e6bb8 font-weight: bold"><b>New Shades for a New Generation</b></font>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Artificial Intelligence equipped glasses are a new and innovative technology that is helping to improve the lives of the visually impaired. AI glasses are outfitted with a camera and software for image, object and text recognition, allowing people who are legally blind to “see” objects in their environment. The glasses can detect objects and relay information such as distance, size, and shape to the user. This technology is helping to increase the independence and mobility of the visually impaired, allowing them to visualize and navigate their environment with ease.
 
