@@ -6,7 +6,7 @@
 > Fortunately, advancements in artificial intelligence (AI) in healthcare have the potential to provide a much needed boost for the visually impaired.
 >
 
-<a href="/22W#:~:text=Shaping%20the%20Future%20with%20AI">More about this posts target audience</a>
+<a href="/22W#:~:text=Target%20Audience">More about this posts target audience</a>
 <br>
 <br>
 # New Shades for a New Generation
@@ -27,7 +27,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since we’ve been using technology to take care of our chores, can it cook? The answer isn’t quite straightforward, while autonomous kitchens have been popping up in limited applications such as restaurants severing noodles in Japan <a href="https://www.aiplusinfo.com/blog/connected-robotics-robotic-kitchen-japan/#:~:text=A%20Japanese%20start%2Dup%20company,delicious%20kakiage%20all%20by%20itself.">(5)</a> and pizza in Los Angeles <a href="https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html">(6)</a>, these robots are specialized. One Application that isn’t specialized is the Moley Kitchen robot <a href="https://www.moley.com/">(7)</a> and makes use of two robotic arms with pressure sensitive fingers, though as impressive as that sounds, the online videos posted by the company more than a year ago show that the robot isn’t <i>“there”</i> yet <a href="https://www.youtube.com/watch?v=i1GVwbYURuQ">(8)</a>.
 <br>
-<img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" width="700" height="500">
+<img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" width="1000" height="400">
 >
 > Image courtsey of the BBC
 >
+
+# The Catch
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do these solutions and optimistic prospects for the future come with no disadvantage? Well, as of now the glass appears to be half empty.
+
+## An Arm and a Leg
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The first issue at hand is a matter of cost, whether it’s the $2,500 AI Glasses <a href="https://shop.letsenvision.com/products/envision-glasses-holiday?variant=43363437445376">(9)</a>, $50,000 autonomous vehicle <a href="https://www.tesla.com/de_DE/model3/design#overview">(10)</a>, $500 Cleaning Robot <a href="https://www.irobot.de/de_DE/irobot-roomba-j7/J755840.html">(11)</a>, or a “price upon request” kitchen, none of these solutions are cheap. Despite the steep prices it is certain that with time and the advancement of technology these prices should flatten out.
+
+## Privacy and Dignity
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technologies today, mainly those that incorporate AI have been under the spotlight due to privacy concerns. AI programs perfect themselves by training on data, and what better data than real customer data. All major tech corporations - Microsoft, Apple and Google have all been under scrutiny for mishandling customer data <a href="https://www.security.org/resources/data-tech-companies-have/">(12)</a>. Amazon not long ago has acquired the company behind the Roomba robots sparking great online concern on the real reasons behind the move <a href="https://www.theatlantic.com/ideas/archive/2022/08/amazon-roomba-irobot-acquisition-monopoly/671145/">(13)</a>.With this already well-known information in mind are we sure signing off our private health data with profit-driven companies is a worth gamble? Such problems while difficult are solvable, by integrating governmental supervision and Laws such as the European “GDPR” regulations. However, companies with deep pockets know that money talks.
