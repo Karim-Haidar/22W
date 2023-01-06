@@ -1,4 +1,5 @@
-# | Empowering the Visually Impaired With AI
+# DigiHealth Blog 
+# <b>| Empowering the Visually Impaired With AI</b>
 <br>
 <center><img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses" width="1000" height="400"></center>
 <br>
