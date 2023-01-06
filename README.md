@@ -52,7 +52,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This brings us to the next, broader, issue that these solutions indirectly solve; visually impaired people face a variety of mental challenges in their daily lives. These include feelings of isolation, frustration, depression, anxiety, fear, and low self-esteem. They may feel isolated from society as a whole due to their disability as they may not be able to participate in activities that sighted people take for granted, such as driving, sports, or even navigating a new environment without assistance. The inability to perform “normal” tasks leads to frustration, which can be compounded when they are not given the same access to education, employment, or other opportunities as their sighted peers. Exposure to these feelings daily or rather constantly can drive a person to depression. Visually impaired people especially, younger adults who have not yet developed confidence and self-management skills <a href="https://www.cdc.gov/visionhealth/resources/features/vision-loss-mental-health.html">(14)</a>, may feel depressed due to their disability and they are missing out on life experiences or opportunities.
 
 >
->The solutions discussed above can reinvigorate confidence by giving unsighted individuals back independence bit by bit, and help them experience new activities safely.
+><b>The solutions discussed above can reinvigorate confidence by giving unsighted individuals back independence bit by bit, and help them experience new activities safely.</b>
 >
 
 <br>
