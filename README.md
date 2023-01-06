@@ -1,9 +1,11 @@
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5"><b>Visually impaired individuals</b></font><font size="4"> face countless challenges and hurdles everyday as they attempt to navigate our vision-oriented infrastructures. As these individuals today form circa 10% of Germany’s population <a href="https://www.germany.travel/en/accessible-germany/disability-friendly-travel-for/visually-impaired.html#:~:text=This%20equates%20to%20around%2010%20%25%20of%20the%20German%20population.">(1)</a>, it is crucial that we can accommodate them.</font>
+
 >
 > Fortunately, advancements in artificial intelligence (AI) in healthcare have the potential to provide a much needed boost for the visually impaired.
 >
+
 <a href="/#:~:text=Shaping%20the%20Future%20with%20AI">More about this posts target audience</a>
 <br>
 <br>
