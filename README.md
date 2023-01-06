@@ -1,5 +1,6 @@
+# | Empowering the Visually Impaired With AI
 <br>
-<center><img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses" width="750" height="400"></center>
+<center><img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses" width="1000" height="400"></center>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="5"><b>Visually impaired individuals</b></font><font size="4"> face countless challenges and hurdles everyday as they attempt to navigate our vision-oriented infrastructures. As these individuals today form circa 10% of Germany’s population <a href="https://www.germany.travel/en/accessible-germany/disability-friendly-travel-for/visually-impaired.html#:~:text=This%20equates%20to%20around%2010%20%25%20of%20the%20German%20population.">(1)</a>, it is crucial that we can accommodate them.</font>
 
@@ -61,5 +62,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This post is directed towards Digital health researchers, medical technicians, medical researchers, and visually impaired individuals.
 
 <br>
-### Refrences:
+### <font style="color:#1e6bb8">References:</font>
 <a href="https://www.germany.travel/en/accessible-germany/disability-friendly-travel-for/visually-impaired.html#:~:text=This%20equates%20to%20around%2010%20%25%20of%20the%20German%20population.">(1)</a>, <a href="https://coolblindtech.com/when-will-self-driving-cars-be-ready-for-blind-and-visually-impaired-people/">(2)</a>, <a href="https://www.irobot.de/de_DE/roomba.html">(3)</a>, <a href="https://www.amazon.in/Alfawise-Magnetic-Smartphone-Controlled-Ultra-Fast/dp/B07TCMKDHD">(4)</a>, <a href="https://www.aiplusinfo.com/blog/connected-robotics-robotic-kitchen-japan/#:~:text=A%20Japanese%20start%2Dup%20company,delicious%20kakiage%20all%20by%20itself.">(5)</a>, <a href="https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html">(6)</a>, <a href="https://www.moley.com/">(7)</a>, <a href="https://www.youtube.com/watch?v=i1GVwbYURuQ">(8)</a>, <a href="https://shop.letsenvision.com/products/envision-glasses-holiday?variant=43363437445376">(9)</a>, <a href="https://www.tesla.com/de_DE/model3/design#overview">(10)</a>, <a href="https://www.irobot.de/de_DE/irobot-roomba-j7/J755840.html">(11)</a>, <a href="https://www.security.org/resources/data-tech-companies-have/">(12)</a>, <a href="https://www.theatlantic.com/ideas/archive/2022/08/amazon-roomba-irobot-acquisition-monopoly/671145/">(13)</a>, <a href="https://www.cdc.gov/visionhealth/resources/features/vision-loss-mental-health.html">(14)</a>.
