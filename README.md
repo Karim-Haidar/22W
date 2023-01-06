@@ -17,7 +17,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI glasses are not only helpful for the visually impaired, but they are also helping to advance medical research. By providing researchers with data on how the visually impaired interact with their environment, researchers can develop better treatments and therapies to help them. These glasses have a lot of room for improvement but their current capabilities show great promise for the future. This <a href="https://www.youtube.com/watch?v=9ehENnq2EFo">video</a> shows the current problems the glasses tackle.
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ehENnq2EFo" title="YouTube video player showcasing Envsion Glasses"</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ehENnq2EFo" title="YouTube video player showcasing Envsion Glasses"></iframe>
 
 # Shaping the Future with AI
 
@@ -51,8 +51,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This brings us to the next, broader, issue that these solutions indirectly solve; visually impaired people face a variety of mental challenges in their daily lives. These include feelings of isolation, frustration, depression, anxiety, fear, and low self-esteem. They may feel isolated from society as a whole due to their disability as they may not be able to participate in activities that sighted people take for granted, such as driving, sports, or even navigating a new environment without assistance. The inability to perform “normal” tasks leads to frustration, which can be compounded when they are not given the same access to education, employment, or other opportunities as their sighted peers. Exposure to these feelings daily or rather constantly can drive a person to depression. Visually impaired people especially, younger adults who have not yet developed confidence and self-management skills <a href="https://www.cdc.gov/visionhealth/resources/features/vision-loss-mental-health.html">(14)</a>, may feel depressed due to their disability and they are missing out on life experiences or opportunities.
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="4">The solutions discussed above can reinvigorate confidence by giving unsighted individuals back independence bit by bit, and help them experience new activities safely.</font>
+>
+>The solutions discussed above can reinvigorate confidence by giving unsighted individuals back independence bit by bit, and help them experience new activities >safely.
+>
 
 <br>
 ### Target Audience
