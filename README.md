@@ -16,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The glasses are equipped with a myriad of features that make them incredibly helpful for the visually impaired. They have an adjustable focus that can be adjusted to the individual’s needs, allowing them to see objects that may be too far away or too close for them to see normally. Additionally, the glasses are equipped with a voice assistant that supports a multitude of features such as provide directions, take phone calls, send text messages and surf the internet for them. This technology is allowing visually impaired people to live more independently and actively engage in their communities.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI glasses are not only helpful for the visually impaired, but they are also helping to advance medical research. By providing researchers with data on how the visually impaired interact with their environment, researchers can develop better treatments and therapies to help them. These glasses have a lot of room for improvement but their current capabilities show great promise for the future. This <a href="https://www.youtube.com/watch?v=9ehENnq2EFo">video</a> shows the current problems the glasses tackle.
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ehENnq2EFo" title="YouTube video player showcasing Envsion Glasses"</iframe>
 
 # Shaping the Future with AI
 
