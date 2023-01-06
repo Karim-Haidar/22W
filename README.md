@@ -1,8 +1,4 @@
-title: "Empowering the Visually Impaired With AI"
-subtitle: "GBAC Blog"
-author: "Karim Haidar"
-
-<font size="1">Visually impaired individuals face countless challenges and hurdles everyday as they attempt to navigate our vision-oriented infrastructures. As these individuals today form circa 10% of Germany’s population (1), it is crucial that we can accommodate them. Fortunately, advancements in artificial intelligence (AI) in healthcare have the potential to provide a much needed boost for the visually impaired.Visually impaired individuals face countless challenges and hurdles everyday as they attempt to navigate our vision-oriented infrastructures. As these individuals today form circa 10% of Germany’s population (1), it is crucial that we can accommodate them. Fortunately, advancements in artificial intelligence (AI) in healthcare have the potential to provide a much needed boost for the visually impaired.</font>
+<font size="5">Visually impaired individuals face countless challenges and hurdles everyday as they attempt to navigate our vision-oriented infrastructures. As these individuals today form circa 10% of Germany’s population (1), it is crucial that we can accommodate them. Fortunately, advancements in artificial intelligence (AI) in healthcare have the potential to provide a much needed boost for the visually impaired.Visually impaired individuals face countless challenges and hurdles everyday as they attempt to navigate our vision-oriented infrastructures. As these individuals today form circa 10% of Germany’s population (1), it is crucial that we can accommodate them. Fortunately, advancements in artificial intelligence (AI) in healthcare have the potential to provide a much needed boost for the visually impaired.</font>
 
 # New Shades for a New Generation
 
