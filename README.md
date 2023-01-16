@@ -16,7 +16,7 @@ Visually impaired individuals face countless challenges and hurdles everyday as 
 
 ## New Shades for a New Generation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Artificial Intelligence equipped glasses are a new and innovative technology that is helping to improve the lives of the visually impaired. AI glasses are outfitted with a camera and software for image, object and text recognition, allowing people who are legally blind to “see” objects in their environment. The glasses can detect objects and relay information such as distance, size, and shape to the user. This technology is helping to increase the independence and mobility of the visually impaired, allowing them to visualize and navigate their environment with ease.
+Artificial Intelligence equipped glasses are a new and innovative technology that is helping to improve the lives of the visually impaired. AI glasses are outfitted with a camera and software for image, object and text recognition, allowing people who are legally blind to “see” objects in their environment. The glasses can detect objects and relay information such as distance, size, and shape to the user. This technology is helping to increase the independence and mobility of the visually impaired, allowing them to visualize and navigate their environment with ease.
 
 The glasses are equipped with a myriad of features that make them incredibly helpful for the visually impaired. They have an adjustable focus that can be adjusted to the individual’s needs, allowing them to see objects that may be too far away or too close for them to see normally. Additionally, the glasses are equipped with a voice assistant that supports a multitude of features such as provide directions, take phone calls, send text messages and surf the internet for them. This technology is allowing visually impaired people to live more independently and actively engage in their communities.
 
@@ -35,11 +35,13 @@ Another interesting venture is cleaning tasks which the visually impaired usuall
 
 Since we’ve been using technology to take care of our chores, can it cook? The answer isn’t quite straightforward, while autonomous kitchens have been popping up in limited applications such as restaurants severing noodles in Japan <a href="https://www.aiplusinfo.com/blog/connected-robotics-robotic-kitchen-japan/#:~:text=A%20Japanese%20start%2Dup%20company,delicious%20kakiage%20all%20by%20itself.">(5)</a> and pizza in Los Angeles <a href="https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html">(6)</a>, these robots are specialized. One Application that isn’t specialized is the Moley Kitchen robot <a href="https://www.moley.com/">(7)</a> and makes use of two robotic arms with pressure sensitive fingers, though as impressive as that sounds, the online videos posted by the company more than a year ago show that the robot isn’t *“there”* yet <a href="https://www.youtube.com/watch?v=i1GVwbYURuQ">(8)</a>.
 
-<img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" width="750" height="400">
+<figure>
+  <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" width="750" height="400">
+  <figcaption></figcaption>
+</figure>
 
->
-> Image courtsey of the BBC
->
+  > Image courtsey of the BBC
+
 
 
 ## The Catch
@@ -61,11 +63,8 @@ Technologies today, mainly those that incorporate AI have been under the spotlig
 
 This brings us to the next, broader, issue that these solutions indirectly solve; visually impaired people face a variety of mental challenges in their daily lives. These include feelings of isolation, frustration, depression, anxiety, fear, and low self-esteem. They may feel isolated from society as a whole due to their disability as they may not be able to participate in activities that sighted people take for granted, such as driving, sports, or even navigating a new environment without assistance. The inability to perform “normal” tasks leads to frustration, which can be compounded when they are not given the same access to education, employment, or other opportunities as their sighted peers. Exposure to these feelings daily or rather constantly can drive a person to depression. Visually impaired people especially, younger adults who have not yet developed confidence and self-management skills <a href="https://www.cdc.gov/visionhealth/resources/features/vision-loss-mental-health.html">(14)</a>, may feel depressed due to their disability and they are missing out on life experiences or opportunities.
 
-
->
->**The solutions discussed above can reinvigorate confidence by giving unsighted individuals back independence bit by bit, and help them experience new activities safely.**
->
-
+   >**The solutions discussed above can reinvigorate confidence by giving unsighted individuals back independence bit by bit, and help them experience newactivities safely.**
+   
 
 ### <span id="target-audience">Target Audience</span>
 
