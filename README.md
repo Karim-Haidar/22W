@@ -1,11 +1,11 @@
 # <font style="display:none">DigiHealth Blog</font>
 # Empowering the Visually Impaired With AI
 
-<img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses" style="width:100%">
+<figure>
+  <img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses">
+  <figcaption>Image courtsey of Wired UK</figcaption>
+</figure>
 
->
-> Image courtsey of Wired UK
->
 
 Visually impaired individuals face countless challenges and hurdles everyday as they attempt to navigate our vision-oriented infrastructures. As these individuals today form circa 10% of Germany’s population [^1], it is crucial that we can accommodate them.
 
@@ -37,11 +37,9 @@ Another interesting venture is cleaning tasks which the visually impaired usuall
 Since we’ve been using technology to take care of our chores, can it cook? The answer isn’t quite straightforward, while autonomous kitchens have been popping up in limited applications such as restaurants severing noodles in Japan [^5] and pizza in Los Angeles [^6], these robots are specialized. One Application that isn’t specialized is the Moley Kitchen robot [^7] and makes use of two robotic arms with pressure sensitive fingers, though as impressive as that sounds, the online videos posted by the company more than a year ago show that the robot isn’t *“there”* yet [^8].
 
 <figure>
-  <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" style="width:100%">
-  <figcaption></figcaption>
+  <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot">
+  <figcaption>Image courtsey of the BBC</figcaption>
 </figure>
-
-  > Image courtsey of the BBC
 
 
 
