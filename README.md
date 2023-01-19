@@ -1,4 +1,4 @@
-# <font style="display:none">DigiHealth Blog</font>
+title: "DigiHealth Blog"
 # Empowering the Visually Impaired With AI
 
 <figure>
