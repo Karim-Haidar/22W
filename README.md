@@ -1,4 +1,7 @@
-title: "DigiHealth Blog"
+---
+title: DigiHealth Blog
+---
+
 # Empowering the Visually Impaired With AI
 
 <figure>
