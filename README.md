@@ -1,7 +1,7 @@
 # <font style="display:none">DigiHealth Blog</font>
 # Empowering the Visually Impaired With AI
 
-<img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses" width="1000" height="400">
+<img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses" style="width:100%">
 
 >
 > Image courtsey of Wired UK
@@ -37,7 +37,7 @@ Another interesting venture is cleaning tasks which the visually impaired usuall
 Since we’ve been using technology to take care of our chores, can it cook? The answer isn’t quite straightforward, while autonomous kitchens have been popping up in limited applications such as restaurants severing noodles in Japan [^5] and pizza in Los Angeles [^6], these robots are specialized. One Application that isn’t specialized is the Moley Kitchen robot [^7] and makes use of two robotic arms with pressure sensitive fingers, though as impressive as that sounds, the online videos posted by the company more than a year ago show that the robot isn’t *“there”* yet [^8].
 
 <figure>
-  <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" width="750" height="400">
+  <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot" style="width:100%">
   <figcaption></figcaption>
 </figure>
 
