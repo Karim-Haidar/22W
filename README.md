@@ -1,3 +1,4 @@
+# <font style="display:none">DigiHealth Blog</font>
 # Empowering the Visually Impaired With AI
 
 <img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses" width="1000" height="400">
