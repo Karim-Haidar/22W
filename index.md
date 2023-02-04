@@ -26,7 +26,7 @@ The glasses are equipped with a myriad of features that make them incredibly hel
 
 AI glasses are not only helpful for the visually impaired, but they are also helping to advance medical research. By providing researchers with data on how the visually impaired interact with their environment, researchers can develop better treatments and therapies to help them. These glasses have a lot of room for improvement but their current capabilities show great promise for the future. This video shows the current problems the glasses tackle.
 
-<iframe width="650" height="370" src="https://www.youtube.com/embed/9ehENnq2EFo" title="YouTube video player showcasing Envsion Glasses"></iframe>
+<iframe src="https://www.youtube.com/embed/9ehENnq2EFo" title="YouTube video player showcasing Envsion Glasses"></iframe>
 
 
 ## Shaping the Future with AI
