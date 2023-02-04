@@ -6,7 +6,7 @@ title: DigiHealth Blog
 
 <figure>
   <img src="https://raw.githubusercontent.com/Karim-Haidar/22W/pages/png.png" alt="AI Glasses">
-  <figcaption>Image courtsey of Wired UK</figcaption>
+  <figcaption>Image courtesy of Wired UK</figcaption>
 </figure>
 
 
@@ -41,7 +41,7 @@ Since we’ve been using technology to take care of our chores, can it cook? The
 
 <figure>
   <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/12BF9/production/_122239767_moleyrobotics2.jpg" alt="Moley Kitchen Robot">
-  <figcaption>Image courtsey of the BBC</figcaption>
+  <figcaption>Image courtesy of the BBC</figcaption>
 </figure>
 
 
